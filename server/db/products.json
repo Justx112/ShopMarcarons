@@ -1,0 +1,58 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Банан с карамелью",
+    "price": 80,
+    "image": "product/image/banan.png",
+    "discription": "Чарующий вкус банана и яркой карамели"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Экзотик",
+    "price": 85,
+    "image": "product/image/exotic.png",
+    "discription": "Для тех кто мечтает о далеких берегах"
+  },
+  {
+    "id_product": 123,
+    "product_name": "Изысканный вкус",
+    "price": 80,
+    "image": "product/image/premium.png",
+    "discription": "Для самых исскушенных"
+  },
+  {
+    "id_product": 125,
+    "product_name": "Эскимо",
+    "price": 75,
+    "image": "product/image/exotic.png",
+    "discription": "Знакомый вкус детсво"
+  },
+  {
+    "id_product": 459,
+    "product_name": "Миндаль",
+    "price": 85,
+    "image": "product/image/mendal.png",
+    "discription": "Исключительный ореховый вкус"
+  },
+  {
+    "id_product": 400,
+    "product_name": "Клубничка",
+    "price": 90,
+    "image": "product/image/strawberry.png",
+    "discription": "Вкус летней клубники"
+  },
+  {
+    "id_product": 500,
+    "product_name": "Кофе с молоком",
+    "price": 75,
+    "image": "product/image/coffe.png",
+    "discription": "Любимый вкус кофе без кофеина"
+  },
+  {
+    "id_product": 800,
+    "product_name": "Малина",
+    "price": 75,
+    "image": "product/image/strawberry.png",
+    "discription": "Сладкий вкус малины"
+  }
+]
